@@ -4,6 +4,11 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.third{
+.third, #fourth{
     font-size: 24px;
+}
+
+#fourth{
+    background-color: #94F097;
+    font-weight: 700;
 }
